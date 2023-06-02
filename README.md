@@ -6,12 +6,13 @@ I'm currently studying at Tallinna Polütehnikum and my preferred front-end stac
 
 Here are some of the technologies that I'm familiar with:
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - React JS
+- React Native
 - Bootstrap
-- Git
+- Github
 
 ## 🚀 My Projects
 
