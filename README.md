@@ -11,7 +11,6 @@ Here are some of the technologies that I'm familiar with:
 - JavaScript
 - React JS
 - React Native
-- Bootstrap
 - Github
 
 ## 🚀 My Projects
